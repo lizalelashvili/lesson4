@@ -49,6 +49,9 @@ section img{
     height: 219px;
     margin-right: 25px;
 }
+p{ 
+    text-align: center;
+}
 
 section p{
     font-size: 16px;
@@ -56,4 +59,34 @@ section p{
     color: #171717;
     margin-bottom: 18px;
     margin-top: 60px;
+}
+
+.add{
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    border-radius: 28px;
+    background-color: #0A22F4;
+    padding: 18px 57px;
+}
+
+footer{
+    height: 1080px;
+    background-color: #0A22F4;
+    margin-top: 180px;
+}
+footer p{
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+.made{
+    font-size: 13px;
+    line-height: 16px;
+}
+.heart{
+    height: 26px;
+}
+.swl{
+    height: 35px;
 }
