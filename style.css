@@ -79,10 +79,12 @@ footer p{
     font-size: 16px;
     line-height: 19px;
     color: #FFFFFF;
+    text-align: left;
 }
 .made{
     font-size: 13px;
     line-height: 16px;
+    text-align: left;
 }
 .heart{
     height: 26px;
