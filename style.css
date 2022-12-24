@@ -36,6 +36,9 @@ nav li{
 .mainbuilding{
     height: 600px;
     border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 h2{
     color: #171717;
@@ -43,12 +46,15 @@ h2{
     line-height: 34px;
     margin-top: 30px;
     margin-bottom: 60px;
+    text-align: center;
 }
 
 section img{
     height: 219px;
     margin-right: 25px;
 }
+
+  
 p{ 
     text-align: center;
 }
